@@ -47,11 +47,13 @@
   padding: 0px;
 }
 
-.list-item, .title {
+.list-item,
+.title {
   list-style: none;
 }
 
-.input,.button{
+.input,
+.button {
   outline: none;
 }
 
@@ -113,7 +115,6 @@
   overflow: hidden;
   padding: 20px 0;
   border-bottom: 1px solid #eee;
-
   display: flex;
   justify-content: space-between;
   align-items: center;
@@ -134,7 +135,7 @@
   width: 226px;
 }
 
-.list-item >    .input-text {
+.list-item > .input-text {
   width: 226px;
 }
 
